@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_medium_phone">75dp</dimen>
+    <dimen name="marginOrPadding_medium">8dp</dimen>
+    <dimen name="marginOrPadding_small">4dp</dimen>
+</resources>
